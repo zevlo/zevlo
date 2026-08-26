@@ -1,10 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Zachary Allen 👋
 
-**zevlo/zevlo** is a special repository because its `README.md` appears on your GitHub profile.
+```bash
+#!/usr/bin/env bash
 
-<!--- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...-->
+declare -A PROFILE=(
+    [name]="Zachary Allen"
+    [role]="DevOps Engineer"
+    [location]="Media, Pennsylvania"
+    [building]="A Kubernetes homelab and GPU-accelerated AI infrastructure"
+    [motto]="Love challenges, be intrigued by mistakes, enjoy effort, and keep on learning."
+)
+
+declare -a FOCUS=("Kubernetes" "GitOps" "Cloud Automation")
+declare -a INTERESTS=("Systems Programming" "Linux Kernel Development")
+```
