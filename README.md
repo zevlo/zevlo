@@ -11,6 +11,6 @@ declare -A PROFILE=(
     [motto]="Love challenges, be intrigued by mistakes, enjoy effort, and keep on learning."
 )
 
-declare -a FOCUS=("Kubernetes" "Linux "Automation" "Security")
+declare -a FOCUS=("Kubernetes" "Linux" "Automation" "Security")
 declare -a INTERESTS=("Systems Programming" "Linux Kernel Development")
 ```
