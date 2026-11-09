@@ -6,10 +6,10 @@
 declare -A PROFILE=(
     [name]="Zachary Allen"
     [role]="Dev Sec Engineer"
-    [location]="MPennsylvania"
-    [building]="Kubernetes Homelab"
+    [location]="Pennsylvania"
+    [building]="GPU-accelerated Kubernetes cluster"
 )
 
 declare -a FOCUS=("Kubernetes" "Linux" "Automation" "Security")
-declare -a INTERESTS=("Systems Programming" "Linux Kernel Development")
+declare -a INTERESTS=("Systems Programming" "Linux Internals")
 ```
